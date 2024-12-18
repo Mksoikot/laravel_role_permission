@@ -17,7 +17,7 @@
         </li>
 
         <li class="nav-item">
-            <a class="nav-link collapsed" href="{{ url('panel/dashboard') }}">
+            <a class="nav-link collapsed" href="{{ route('role_list') }}">
                 <i class="bi bi-person"></i>
                 <span>Role</span>
             </a>
